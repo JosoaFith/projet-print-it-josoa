@@ -1,2 +1,1 @@
-# projet-print-it-josoa
-Carousel project
+# Print-It WebSite v.1
